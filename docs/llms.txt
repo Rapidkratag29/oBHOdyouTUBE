@@ -1,0 +1,20 @@
+# oBHOdyouTUBE
+
+> Новая версия с поддержкой обхода YouTube в текущих условиях. Быстрее, стабильнее, надежнее
+
+oBHOdyouTUBE снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+
+## Страницы
+- Сайт: https://rapidkratag29.github.io/oBHOdyouTUBE/
+- Релиз: https://github.com/Rapidkratag29/oBHOdyouTUBE/releases/latest
+- Исходный код: https://github.com/Rapidkratag29/oBHOdyouTUBE
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
